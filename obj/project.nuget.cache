@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OnLab1AeXtWe94CsKBVN1XJyFFLjOj6tP+Zn4tVGa3sWmBRdnnqDP9iszBcqcYfbOPxUEd7m6N9QP9IEyUr0WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sapta\\Documents\\Job Application\\Technical Test\\Mini Project\\ParkingSystem\\ParkingSystem\\ParkingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sapta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sapta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sapta\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\sapta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sapta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\sapta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
